@@ -1,6 +1,7 @@
 <h1 align="center"> It's me DARSHAN M S</h1>
 <h3 align="center">A Programming Enthusiast from India.</h3>
-<img align="right" alt="coding" width="400" src="![github pixel art](https://github.com/darshanatwork7707/darshanatwork7707/assets/120500888/a1df43d5-6270-43d6-9d1a-e57edc24a8ac)">
+<img align="right" alt="" width="400" src="![github pixel art](https://github.com/darshanatwork7707/darshanatwork7707/assets/120500888/2f27dce9-f1a7-400f-b2bd-26c7be65c887)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanatwork7707&label=Profile%20views&color=0e75b6&style=flat" alt="darshanatwork7707" /> </p>
 
